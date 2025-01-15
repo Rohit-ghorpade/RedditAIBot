@@ -10,7 +10,7 @@ A Reddit bot that uses **Groq AI** to generate and post content to a specified s
 
 ## Requirements
 
-- Python 3.10 > 
+- Python 3.10
 - Groq API Key
 - Reddit API credentials (Client ID, Client Secret, Username, Password)
 
@@ -19,7 +19,7 @@ A Reddit bot that uses **Groq AI** to generate and post content to a specified s
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Rohit-Ghorpade/RedditAIBot.git
+    git clone https://github.com/Rohit-ghorpade/RedditAIBot
     cd RedditAIBot
     ```
 
