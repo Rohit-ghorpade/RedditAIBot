@@ -1,0 +1,22 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# IDE configurations (e.g., VS Code)
+.vscode/
+
+# Jupyter Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# Groq API Key file (if it's in a separate file)
+groq_api_key.txt

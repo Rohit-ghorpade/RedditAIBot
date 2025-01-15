@@ -1,0 +1,6 @@
+praw
+schedule 
+requests
+python-dotenv
+groq
+markdown
